@@ -1,0 +1,7 @@
+E:\GIT_CC\SET1_GROUP2\Solution\LMS\LMS\bin\Debug\LMS.exe.config
+E:\GIT_CC\SET1_GROUP2\Solution\LMS\LMS\bin\Debug\LMS.exe
+E:\GIT_CC\SET1_GROUP2\Solution\LMS\LMS\bin\Debug\LMS.pdb
+E:\GIT_CC\SET1_GROUP2\Solution\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+E:\GIT_CC\SET1_GROUP2\Solution\LMS\LMS\obj\Debug\LMS.exe
+E:\GIT_CC\SET1_GROUP2\Solution\LMS\LMS\obj\Debug\LMS.pdb
+E:\GIT_CC\SET1_GROUP2\Solution\LMS\LMS\obj\Debug\LMS.csprojAssemblyReference.cache

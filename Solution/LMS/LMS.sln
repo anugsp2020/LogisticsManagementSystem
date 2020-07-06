@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMS", "LMS\LMS.csproj", "{8B76E01E-F16C-4DD7-8797-90CD4D3EF321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSTests", "LMSTests\LMSTests.csproj", "{F31C737E-7CC9-4CF8-8C7A-9F11F971B02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B76E01E-F16C-4DD7-8797-90CD4D3EF321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B76E01E-F16C-4DD7-8797-90CD4D3EF321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B76E01E-F16C-4DD7-8797-90CD4D3EF321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B76E01E-F16C-4DD7-8797-90CD4D3EF321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31C737E-7CC9-4CF8-8C7A-9F11F971B02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31C737E-7CC9-4CF8-8C7A-9F11F971B02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31C737E-7CC9-4CF8-8C7A-9F11F971B02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31C737E-7CC9-4CF8-8C7A-9F11F971B02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E7ECA67-ECB3-42D7-A139-9E6428AB84C2}
+	EndGlobalSection
+EndGlobal
